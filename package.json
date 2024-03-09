@@ -9,5 +9,11 @@
       "./feature/index": "./feature/index.js",
       "./feature/index.js": "./feature/index.js",
       "./package.json": "./package.json"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
     }
   } 
