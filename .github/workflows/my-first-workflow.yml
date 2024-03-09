@@ -37,7 +37,7 @@ jobs:
         node-version: latest
 
     - name: Print a message
-      run: echo "Hello, world here 2!"
+      run: echo "Hello, world here 2 ss!"
 
     - name: Install Dependencies
       run: npm install
