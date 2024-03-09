@@ -39,9 +39,6 @@ jobs:
     - name: Print a message
       run: echo "Hello, world!"
 
-    - name: create package.json
-      run: npm init
-      
     - name: Install Dependencies
       run: npm install
       
